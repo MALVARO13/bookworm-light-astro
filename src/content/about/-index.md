@@ -1,7 +1,7 @@
 ---
 title: "I’m Mike, an AI Automations Specialist and you have stumbled upon my blog."
 meta_title: "About"
-image: "/images/#15 - John Alvaro - HeadshotPro.png"
+image: "/images/profile_headshot.png"
 draft: false
 
 what_i_do:
