@@ -3,7 +3,7 @@ title: "An Introduction to learning AI Automations"
 meta_title: "Learning AI Automations in 2026: Beginner’s Guide"
 description: "Learn what AI automation is, why it matters in 2026, and how
   beginners can start building real workflows using no-code and AI tools."
-date: 2025-04-01T05:00:00.000Z
+date: 2026-02-07T00:03:00.000Z
 image: "/images/introtoaiautomations_01.png"
 categories:
   - AI Automation Fundamentals
