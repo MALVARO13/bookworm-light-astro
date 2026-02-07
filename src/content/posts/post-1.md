@@ -1,12 +1,20 @@
 ---
-title: "How to make toys from old Olarpaper"
-meta_title: ""
-description: "meta description"
-date: 2025-04-01T05:00:00Z
-image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+title: "An Introduction to learning AI Automations"
+meta_title: "Learning AI Automations in 2026: Beginner’s Guide"
+description: "Learn what AI automation is, why it matters in 2026, and how
+  beginners can start building real workflows using no-code and AI tools."
+date: 2025-04-01T05:00:00.000Z
+image: "/images/introtoaiautomations_01.png"
+categories:
+  - AI Automation Fundamentals
+authors:
+  - Mike Types
+tags:
+  - Learning
+  - Beginners
+  - AI Automation
+  - Make.com
+  - ChatGPT
 draft: false
 ---
 
