@@ -1,12 +1,11 @@
 ---
-title: John Doe
+title: Mike Types
 meta_title: ""
-image: /images/authors/john-doe.jpg
+image: /images/profile_headshot.png
 description: this is meta description
 social:
   facebook: https://www.facebook.com/johndoe
   x: https://www.x.com/johndoe
   linkedin: https://www.linkedin.com/johndoe
 ---
-
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+AI Automation Specialist helping businesses streamline workflows, eliminate repetitive tasks, and scale using practical AI and no-code automation. I write about real-world use cases, systems thinking, and building automation that actually works.
