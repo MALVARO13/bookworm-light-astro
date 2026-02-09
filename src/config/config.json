@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "MikeIsTyping",
+    "base_url": "https://mikeistyping.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -16,9 +16,9 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Mike Types",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "A blog about AI Automation and systems engineering"
   },
 
   "google_tag_manager": {
@@ -28,7 +28,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright ©MikeIsTyping 2026"
   },
 
   "contactinfo": {
